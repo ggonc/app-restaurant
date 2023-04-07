@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Balaio De Lenha</string>
+    <string name="textConsumoTotal">Consumo total: </string>
+    <string name="textCouvert">Couvert artístico: </string>
+    <string name="textDividirPor">Dividir conta por: </string>
+    <string name="btnCalcular">Calcular conta final</string>
+    <string name="textTaxaServico">Taxa de serviço (10%): </string>
+    <string name="textContaTotal">Conta total: </string>
+    <string name="textContaPorPessoa">Valor por pessoa: </string>
+</resources>
